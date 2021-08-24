@@ -88,11 +88,11 @@
     },
     {
       "chainId": 101,
-      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "symbol": "USDC",
-      "name": "USD Coin",
+      "address": "2P6djDAcxuUgjD2eFxpw8uUfffmdz6fBPGoqGkwrSC9w",
+      "symbol": "SY",
+      "name": "SY Coin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "logoURI": "https://ibb.co/SrRWRjh",
       "tags": [
         "stablecoin"
       ],
